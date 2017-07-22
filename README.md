@@ -6,10 +6,10 @@
 ####安装最新的node.js 
 
 ```
-npm install -g n //首先安装n模块 
-n stable //升级Node.js到最新稳定版 
-n 5.0.0 //或者指定版本升级 
-node -v //检查更新是否成功
+npm install -g n  //首先安装n模块
+n stable  //升级Node.js到最新稳定版
+n 5.0.0  //或者指定版本升级
+node -v  //检查更新是否成功
 
 ```
 
@@ -140,6 +140,8 @@ npm start
 * [使用Mock.js进行独立于后端的前端开发](https://segmentfault.com/a/1190000003087224)
 
 #### React 组件生命周期
+
+
 
 ```
     * Mounting：已插入真实 DOM
